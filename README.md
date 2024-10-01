@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python developer from Ahmedabad Gujarat</h3>
 
 
-
+<meta name="google-site-verification" content="MabHK6IgBnagJrr6pIBQ-e-U-yB2tUzYyVT7vcp9mKk" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbhuva07&label=Profile%20views&color=0e75b6&style=flat" alt="devbhuva07" /> </p>
