@@ -1,3 +1,14 @@
+<html>
+  <head>
+    <meta name="google-site-verification" content="MabHK6IgBnagJrr6pIBQ-e-U-yB2tUzYyVT7vcp9mKk" />
+  </head>
+
+
+
+<body>
+
+
+
 <h1 align="center">Hi 👋, I'm Dev Bhuva</h1>
 <h3 align="center">A passionate python developer from Ahmedabad Gujarat</h3>
 
@@ -30,4 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbhuva07&show_icons=true&locale=en&layout=compact" alt="devbhuva07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbhuva07&show_icons=true&locale=en" alt="devbhuva07" /></p>
-
+</body>
+</html>
