@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **Cyber Securtiy**
 
-- 📫 How to reach me **devbhuva1206@gmail.com**
+- 📫 How to reach me **devbhuva077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
